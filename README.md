@@ -1,7 +1,6 @@
 # Data Scientist
 
 #### Technical Skills: 
-
 - Languages:
   - Python
   - SQL
@@ -15,32 +14,11 @@ Modelling and Visualization using Power Bi.
   - Linux 
 
 ## Work Experience
-
 **IT Support | Spark Up Promotions | Sydney **
 - xxx
 
 **Data Science Consultant @ yyy**
 - xxx
-
-## Education
-
-### University
-**Data Science and Decision's at UNSW (2020-2023)**
-- Grade: Distinction
-
-### High School Certificate
-**St Augustine's College Sydney (2014-2019)**
-- ATAR of 94
-
-### Additional Training & Certifications
-
-- 2024: Data Analyst Associate (DataCamp)
-- 2024: Google Data Analytics Professional Certificate (Coursera)
-- 2024: Associate Data Analyst with SQL (DataCamp) 
-- 2024: Google Advanced Data Analytics Professional Certificate (Coursera)
-- 2024: Data Analyst with Python (DataCamp) 
-- 2021: SQL Boot Camp (Udemy)
-- 2021: Python 3 Boot Camp (Udemy) 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -56,6 +34,24 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+## Education
+### University
+**Data Science and Decision's at UNSW (2020-2023)**
+- Grade: Distinction
+
+### High School Certificate
+**St Augustine's College Sydney (2014-2019)**
+- ATAR of 94
+
+### Additional Training & Certifications
+- 2024: Data Analyst Associate (DataCamp)
+- 2024: Google Data Analytics Professional Certificate (Coursera)
+- 2024: Associate Data Analyst with SQL (DataCamp) 
+- 2024: Google Advanced Data Analytics Professional Certificate (Coursera)
+- 2024: Data Analyst with Python (DataCamp) 
+- 2021: SQL Boot Camp (Udemy)
+- 2021: Python 3 Boot Camp (Udemy) 
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
