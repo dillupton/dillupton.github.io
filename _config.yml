@@ -1,5 +1,8 @@
 title: Dylan Upton
 description: [A short description of your site's purpose]
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
