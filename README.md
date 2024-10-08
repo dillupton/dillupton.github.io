@@ -1,5 +1,5 @@
 # Dylan Upton
-### Projects
+## Projects
 
 ##### Regression with an Abalone Dataset
 
@@ -13,7 +13,7 @@ Developed to provide insights into sporting event data using **Python**. Our pro
 
 [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
 
-### Technical Skills: 
+## Technical Skills: 
 - Languages:
   - Python
   - SQL
@@ -24,7 +24,7 @@ Developed to provide insights into sporting event data using **Python**. Our pro
   - Windows
   - Linux 
 
-### Work Experience
+## Work Experience
 
 **Tech Support Engineer | Spark Up Promotions | Sydney**
 - Provided Desktop Hardware, OS (Windows 10) and application (O365) support to 8 x internal users and clients.
@@ -32,7 +32,7 @@ Developed to provide insights into sporting event data using **Python**. Our pro
 maintenance.
 - Performed data analysis and generated reports with PowerBI. Participated in client meetings and workshops.
 
-#### Education
+## Education
 
 ##### University
 **Data Science and Decision's at UNSW (2020-2023)**
