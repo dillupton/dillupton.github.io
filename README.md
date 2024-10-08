@@ -1,4 +1,4 @@
-# Dylan Upton
+## Dylan Upton
 ## Technical Skills: 
 - Languages:
   - Python
