@@ -1,6 +1,7 @@
 # Data Scientist
 
 #### Technical Skills: 
+
 - Languages:
   - Python
   - SQL
@@ -14,6 +15,7 @@ Modelling and Visualization using Power Bi.
   - Linux 
 
 ## Work Experience
+
 **IT Support | Spark Up Promotions | Sydney **
 - xxx
 
@@ -21,13 +23,17 @@ Modelling and Visualization using Power Bi.
 - xxx
 
 ## Education
+
+*University*
 **Data Science and Decision's at UNSW (2020-2023)**
 - Grade: Distinction
 
+*High School Certificate*
 **St Augustine's College Sydney (2014-2019)**
 - ATAR of 94
 
 **Additional Training & Certifications**
+
 - 2024: Data Analyst Associate (DataCamp)
 - 2024: Google Data Analytics Professional Certificate (Coursera)
 - 2024: Associate Data Analyst with SQL (DataCamp) 
