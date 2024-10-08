@@ -1,13 +1,25 @@
 # Dylan Upton
+## Projects
+
+### Regression with an Abalone Dataset
+
+Developed xxxxxxxxxxxxxxxx **Python**. This data-driven approach led to better xxxxx.
+
+[Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
+
+## NRL Project Report- Gaining Insights into the 2022 Season
+
+Developed xxxxxxxxxxxxxxxx **Python**. This data-driven approach led to better xxxxx.
+
+[Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
+
 ## Technical Skills: 
 - Languages:
   - Python
   - SQL
   - Shell
-- Database:
-  - SQL, Python to DB Interaction, Data 
-Engineering, Cleaning, Basic Data Base Design, Data 
-Modelling and Visualization using Power Bi. 
+- Visulisation Tools:
+  - Microsoft Power Bi. 
 - Operating Systems:
   - Windows
   - Linux 
@@ -19,16 +31,6 @@ Modelling and Visualization using Power Bi.
 - Supported internal database (Postgres on Windows Server), assisted with database loads, data cleaning, patch updates and
 maintenance.
 - Performed data analysis and generated reports with PowerBI. Participated in client meetings and workshops.
-
-
-## Projects
-
-### Regression with an Abalone Dataset
-
-Developed xxxxxxxxxxxxxxxx **Python**. This data-driven approach led to better xxxxx.
-
-[Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
-
 
 ## Education
 
