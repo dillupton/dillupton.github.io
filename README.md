@@ -13,6 +13,13 @@ Modelling and Visualization using Power Bi.
   - Windows
   - Linux 
 
+## Work Experience
+**IT Support | Spark Up Promotions | Sydney **
+- xxx
+
+**Data Science Consultant @ yyy**
+- xxx
+
 ## Education
 **Data Science and Decision's at UNSW (2020-2023)**
 - Grade: Distinction
@@ -20,12 +27,14 @@ Modelling and Visualization using Power Bi.
 **St Augustine's College Sydney (2014-2019)**
 - ATAR of 94
 
-## Work Experience
-**Data Scientist @ yyyy**
-- xxx
-
-**Data Science Consultant @ yyy**
-- xxx
+**Additional Training & Certifications**
+- 2024: Data Analyst Associate (DataCamp)
+- 2024: Google Data Analytics Professional Certificate (Coursera)
+- 2024: Associate Data Analyst with SQL (DataCamp) 
+- 2024: Google Advanced Data Analytics Professional Certificate (Coursera)
+- 2024: Data Analyst with Python (DataCamp) 
+- 2021: SQL Boot Camp (Udemy)
+- 2021: Python 3 Boot Camp (Udemy) 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
