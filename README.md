@@ -1,6 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+- Languages: Python, SQL, Shell
+- Database: SQL, Python to DB Interaction, Data 
+Engineering, Cleaning, Basic Data Base Design, Data 
+Modelling and Visualization using Power Bi. 
+- Operating Systems: Windows & Linux 
 
 ## Education
 **Data Science and Decision's at UNSW (2020-2023)**
