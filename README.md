@@ -3,7 +3,10 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- xxx
+- Data Science and Decision's at UNSW (2020-2023)
+  -- Grade: Distinction
+- St Augustine's College Sydney (2014-2019)
+  -- ATAR of 94
 
 ## Work Experience
 **Data Scientist @ yyyy**
