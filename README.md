@@ -17,11 +17,8 @@ Modelling and Visualization using Power Bi.
 **IT Support | Spark Up Promotions | Sydney**
 - xxx
 
-**Data Science Consultant @ yyy**
-- xxx
-
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Regression with an Abalone Dataset
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed xxxxxxxxxxxxxxxx **Python**. This data-driven approach led to better xxxxx.
