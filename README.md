@@ -1,5 +1,3 @@
-# Data Scientist
-
 ## Technical Skills: 
 - Languages:
   - Python
