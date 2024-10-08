@@ -15,11 +15,8 @@ Developed to provide insights into sporting event data using **Python**. Our pro
 
 ## Technical Skills: 
 - Languages: Python, SQL, Shell
-- Visulisation Tools:
-  - Microsoft Power Bi. 
-- Operating Systems:
-  - Windows
-  - Linux 
+- Visulisation Tools: Microsoft Power Bi
+- Operating Systems: Windows, Linux 
 
 ## Work Experience
 
