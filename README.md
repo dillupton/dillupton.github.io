@@ -3,11 +3,18 @@
 ## Projects
 ### Regression with an Abalone Dataset
 Developed for the Abalone competition on Kaggle, my project aimed to predict the rings of given abalone based off of a number of features using **Python**. I prediciting successfully with a RMSLE of 0.14901....
+
 [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
 
 ### NRL Team Project Report- Gaining Insights into the 2022 Season
 Developed to provide insights into sporting event data using **Python**. Our project aimed to present new findings to the NRL to help them make more informed and data driven decisions....
+
 [NRL Project](https://github.com/dillupton/DATA3001-NRL-Project)
+
+### PWC Sandbox Team Project- Havesting Sustainability
+Developed to gain insights into the current state of Australian agriculture using **Power Bi**. Our project presented guidance and support through recommendations as well as critical information to help farmers tackle current and emerging challenges. 
+
+[PWC Project](https://github.com/dillupton/INFS3603-PwC-Sandbox-Project)
 
 ## Technical Skills: 
 - Languages: Python, SQL, Shell
