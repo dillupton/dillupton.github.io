@@ -3,13 +3,13 @@
 
 ##### Regression with an Abalone Dataset
 
-Developed xxxxxxxxxxxxxxxx **Python**. This data-driven approach led to better xxxxx.
+Developed for the Abalone competition on Kaggle, my project aimed to predict the rings of given abalone based off of a number of features using **Python**. I prediciting successfully with a RMSLE of 0.14901....
 
 [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
 
-##### NRL Project Report- Gaining Insights into the 2022 Season
+##### NRL Team Project Report- Gaining Insights into the 2022 Season
 
-Developed xxxxxxxxxxxxxxxx **Python**. This data-driven approach led to better xxxxx.
+Developed to provide insights into sporting event data using **Python**. Our project aimed to present new findings to the NRL to help them make more informed and data driven decisions....
 
 [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
 
