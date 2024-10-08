@@ -32,7 +32,7 @@ Modelling and Visualization using Power Bi.
 **St Augustine's College Sydney (2014-2019)**
 - ATAR of 94
 
-**Additional Training & Certifications**
+### Additional Training & Certifications
 
 - 2024: Data Analyst Associate (DataCamp)
 - 2024: Google Data Analytics Professional Certificate (Coursera)
