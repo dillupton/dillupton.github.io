@@ -13,10 +13,11 @@ Modelling and Visualization using Power Bi.
   - Linux 
 
 ## Work Experience
-**IT Support | Spark Up Promotions | Sydney**
-- Provided Desktop Hardware, OS (Windows 10) and application (O365) support to 8 x internal users and clients. Supported
-internal database (Postgres on Windows Server), assisted with database loads, data cleaning, patch updates and
-maintenance. Performed data analysis and generated reports with PowerBI. Participated in client meetings and workshops.
+**Tech Support Engineer | Spark Up Promotions | Sydney**
+- Provided Desktop Hardware, OS (Windows 10) and application (O365) support to 8 x internal users and clients.
+- Supported internal database (Postgres on Windows Server), assisted with database loads, data cleaning, patch updates and
+maintenance.
+Performed data analysis and generated reports with PowerBI. Participated in client meetings and workshops.
 
 ## Projects
 ### Regression with an Abalone Dataset
