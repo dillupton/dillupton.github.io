@@ -14,10 +14,7 @@ Developed to provide insights into sporting event data using **Python**. Our pro
 [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
 
 ## Technical Skills: 
-- Languages:
-  - Python
-  - SQL
-  - Shell
+- Languages: Python, SQL, Shell
 - Visulisation Tools:
   - Microsoft Power Bi. 
 - Operating Systems:
