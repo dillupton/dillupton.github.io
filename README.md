@@ -5,6 +5,7 @@
 Developed for the Abalone competition on Kaggle, my project aimed to predict the rings of given abalone based off of a number of features using **Python**. I prediciting successfully with a RMSLE of 0.14901....
 
 [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
+[Kaggle Competition Code](https://github.com/dillupton/Abalone-Kaggle-Competition)
 
 ### NRL Team Project Report- Gaining Insights into the 2022 Season
 Developed to provide insights into sporting event data using **Python**. Our project aimed to present new findings to the NRL to help them make more informed and data driven decisions....
