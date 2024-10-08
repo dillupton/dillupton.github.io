@@ -13,20 +13,25 @@ Modelling and Visualization using Power Bi.
   - Linux 
 
 ## Work Experience
+
 **Tech Support Engineer | Spark Up Promotions | Sydney**
 - Provided Desktop Hardware, OS (Windows 10) and application (O365) support to 8 x internal users and clients.
 - Supported internal database (Postgres on Windows Server), assisted with database loads, data cleaning, patch updates and
 maintenance.
-Performed data analysis and generated reports with PowerBI. Participated in client meetings and workshops.
+- Performed data analysis and generated reports with PowerBI. Participated in client meetings and workshops.
+
 
 ## Projects
+
 ### Regression with an Abalone Dataset
 
 Developed xxxxxxxxxxxxxxxx **Python**. This data-driven approach led to better xxxxx.
 
 [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s4e4/overview)
 
+
 ## Education
+
 ### University
 **Data Science and Decision's at UNSW (2020-2023)**
 - Grade: Distinction
