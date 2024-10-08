@@ -1,4 +1,4 @@
-# Data Scientist
+# Dylan Upton
 ## Technical Skills: 
 - Languages:
   - Python
