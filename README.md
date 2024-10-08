@@ -24,11 +24,11 @@ Modelling and Visualization using Power Bi.
 
 ## Education
 
-###University###
+###University
 **Data Science and Decision's at UNSW (2020-2023)**
 - Grade: Distinction
 
-###High School Certificate###
+###High School Certificate
 **St Augustine's College Sydney (2014-2019)**
 - ATAR of 94
 
